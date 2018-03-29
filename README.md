@@ -8,6 +8,7 @@ A function to **_convert the Postfix Expression_** to an **_Expression Tree_**.
 
 ```
 git clone https://github.com/shv-luffy-98/Expression-Tree.git
+mkdir bin
 cd src
 javac -d ../bin Test.java
 java -cp ../bin Test  
